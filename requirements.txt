@@ -1,0 +1,7 @@
+streamlit
+pymongo
+pandas
+schedule
+pycoingecko
+plotly
+python-dotenv
