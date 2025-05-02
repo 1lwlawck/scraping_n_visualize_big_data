@@ -3,8 +3,6 @@ import pandas as pd
 from utils.db import get_collections
 from utils.data_loader import get_latest_marketcap_data, get_historical_data
 from utils.charts import bar_chart_marketcap, line_chart_price, line_chart_compare
-from utils.data_loader import load_heatmap_data
-from utils.charts import calculate_heatmap, draw_heatmap
 
 # ------------------------ SETUP ------------------------
 st.set_page_config(
